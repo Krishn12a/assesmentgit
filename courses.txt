@@ -1,2 +1,5 @@
 1,tamil
 2,English
+3,maths
+4,science
+5,social
